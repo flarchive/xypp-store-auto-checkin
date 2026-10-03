@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of xypp/store-auto-checkin.** Not for installation: use [Packagist](https://packagist.org/packages/xypp/store-auto-checkin) or the [upstream repository](https://github.com/zxy19/flarum-store-auto-checkin).
 
-**0** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/xypp-store-auto-checkin/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.2.0`
+**1** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/xypp-store-auto-checkin/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2024-07-13 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-store-auto-checkin/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/xypp-store-auto-checkin.json](https://github.com/flarchive/archive-index/blob/main/packages/xypp-store-auto-checkin.json)
 
